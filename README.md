@@ -1,5 +1,4 @@
 # IR Active Bands
-=================
 
 A simple toolkit for computing and visualising the locations of harmonic overtone and combination
 absorption features from the fundamental vibrational modes of infrared active molecules found in
