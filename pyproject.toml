@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ir_active_bands"
+version = "0.0.1"
+dependencies = [
+    "matplotlib~=3.5.1",
+    "numpy~=1.19.2",
+    "pandas~=1.4.3"]
+requires-python = "~=3.8"
+
+[tool.setuptools]
+packages = ['ir_active_bands']
