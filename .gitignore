@@ -1,0 +1,6 @@
+.DS_Store
+build
+ir_active_bands.egg-info
+.vscode
+__pycache__/
+*.py[cod]
