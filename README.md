@@ -8,7 +8,7 @@ minerals of interest to the exploration of planetary surfaces.
 
 You can install the package with:
 ```
-pip install git+git://github.com/rbstabbins/IR_Active_Bands
+pip install git+https://github.com/rbstabbins/IR_Active_Bands
 ```
 
 ## Usage
